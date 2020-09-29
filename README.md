@@ -4,6 +4,10 @@ IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in
 ### Connect with me
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/_niccolo_s/)
 
+ 
+### Actually working on:
+[<img align="left" alt="Instagram" width="22px" src="https://specular.eu/static/media/logo.d7bee069.png" />](https://www.specular.eu) Specular Mirror
+
 <!--
 **NiccoloSegato/NiccoloSegato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
