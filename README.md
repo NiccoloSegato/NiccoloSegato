@@ -1,4 +1,4 @@
-### Hi there, I'm Niccolo' 👋
+### Hi there, I'm Ashi' 👋
 IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in Bologna ❤️.
 
 ### Actually working on:
