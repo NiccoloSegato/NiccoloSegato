@@ -8,7 +8,7 @@ IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in
 
 📚 **UniReplay** - The productivity suite for remote teaching
 
-📸 **AR (?)** - A brand new idea, still thinking about...
+📸 **AR (?)** - A brand new idea, still thinking about it...
 
 ### Connect with me
 [<img align="left" alt="Instagram" width="20px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://instagram.com/_niccolo_s)
