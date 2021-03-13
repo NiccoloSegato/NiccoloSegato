@@ -2,11 +2,11 @@
 IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in Bologna ❤️.
 
 ### Actually working on:
-👨‍💻 **Specular** - The first IoT mirror focused on You
+👨‍💻 [**Specular**](https://specular.eu) - The first IoT mirror focused on You
 
-🤲 **Voolo** - Digital volunteering, made simple
+🤲 [**Voolo**](https://voolo.net) - Digital volunteering, made simple
 
-📚 **UniReplay** - The productivity suite for remote teaching
+📚 [**InfluLab.it**](https://influlab.it) - Gain with your social networks
 
 📸 **AR (?)** - A brand new idea, still thinking about it...
 
