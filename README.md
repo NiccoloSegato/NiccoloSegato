@@ -4,7 +4,7 @@ IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in
 ### Actually working on:
 👨‍💻 [**Specular**](https://specular.eu) - The first IoT mirror focused on You
 
-🤲 [**Voolo**](https://voolo.net) - Digital volunteering, made simple
+🤲 [**Co-Space Canarias**](https://cospacecanarias.com) - Find your next Co-Space Experience
 
 📚 [**InfluLab.it**](https://influlab.it) - Gain with your social networks
 
