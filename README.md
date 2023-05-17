@@ -1,14 +1,8 @@
 ### Hi there, I'm Niccolo' 👋
-IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in Bologna ❤️.
+Junior SW Developer Engineer at **Nokia**, IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in Bologna ❤️.
 
 ### Actually working on:
-👨‍💻 [**Specular**](https://specular.eu) - The first IoT mirror focused on You
-
 😎 [**Co-Space Canarias**](https://cospacecanarias.com) - Find your next Co-Space Experience
-
-📚 [**InfluLab.it**](https://influlab.it) - Gain with your social networks
-
-📸 **AR (?)** - A brand new idea, still thinking about it...
 
 ### Connect with me
 [<img align="left" alt="Instagram" width="20px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://instagram.com/_niccolo_s)
