@@ -1,5 +1,5 @@
 ### Hi there, I'm Niccolo' 👋
-Junior SW Developer Engineer at **Nokia**, IT Enginering Student at **Politecnico di Milano**. Living in Milan, but born in Bologna ❤️.
+Former SW Developer Engineer at **Nokia**, Communication Design student at **Politecnico di Milano**. Living in Milan, born in Bologna ❤️.
 
 ### Actually working on:
 😎 [**Co-Space Canarias**](https://cospacecanarias.com) - Find your next Co-Space Experience
