@@ -1,5 +1,9 @@
 ### Hi there, I'm Niccolo' 👋
-Former SW Developer Engineer at **Nokia**, Communication Design student at **Politecnico di Milano**. Living in Milan, born in Bologna ❤️.
+👨🏻‍💻 Former SW Developer Engineer at **Nokia**
+
+🎓 Communication Design student at **Politecnico di Milano**
+
+📍 Living in **Milan**, born in Bologna.
 
 ### My websites
 📚 [**PoliReplay**](https://polireplay.it) - Search among more than 3600 recorded lessons from Politecnico di Milano
@@ -7,9 +11,9 @@ Former SW Developer Engineer at **Nokia**, Communication Design student at **Pol
 ### Actually working on:
 😎 [**Co-Space Canarias**](https://cospacecanarias.com) - Find your next Co-Space Experience
 
+🌵 [**Cactus**](https://cactus.game) - Card game developed in Politecnico di Milano
+
 ### Connect with me
-[<img align="left" alt="Instagram" width="20px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://instagram.com/_niccolo_s)
-[<img align="left" alt="Twitter" width="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/niccolosegato)
 [<img align="left" alt="Stack Overflow" width="20px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/9158084/niccol%c3%b2-segato)
 [<img align="left" alt="e-mail" width="20px" src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:nic@segato.net)
 
