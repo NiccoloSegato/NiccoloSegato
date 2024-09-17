@@ -8,10 +8,10 @@
 ### My websites
 📚 [**PoliReplay**](https://polireplay.it) - Search among more than 3600 recorded lessons from Politecnico di Milano
 
+🌵 [**Cactus**](https://niccolosegato.github.io/cactus/) - Card game developed in Politecnico di Milano
+
 ### Actually working on:
 😎 [**Co-Space Canarias**](https://cospacecanarias.com) - Find your next Co-Space Experience
-
-🌵 [**Cactus**](https://cactus.game) - Card game developed in Politecnico di Milano
 
 ### Connect with me
 [<img align="left" alt="Stack Overflow" width="20px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/9158084/niccol%c3%b2-segato)
